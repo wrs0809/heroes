@@ -1,4 +1,4 @@
 Heroes: 
 Gustavo
 Rodrigo
-William
+William, 31 años, Lanús Buenos Aires.
